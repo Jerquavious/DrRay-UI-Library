@@ -15,7 +15,7 @@ DRR["2"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
 DRR["2"]["LayoutOrder"] = 2;
 DRR["2"]["Size"] = UDim2.new(0.5404488444328308, 0, 0.1739015281200409, 0);
 DRR["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-DRR["2"]["Position"] = UDim2.new(0.23000000417232513, 0, -0.1899999976158142, 0);
+DRR["2"]["Position"] = UDim2.new(0.23000000417232513, 0, 0.05., 0);
 DRR["2"]["Name"] = [[TopBar]];
 
 -- DrRay.TopBar.UICorner
